@@ -80,3 +80,32 @@ body.fotos #navegação a#fotos {
 	cursor: text;
 }
 
+/* Configuração do conteudo */
+
+#conteudo{
+	margin-top: 60px;
+	background: #f5f5f5;
+
+}
+
+#primario{
+	width: 270px;
+	float: left;
+	background: blue;
+	
+}
+
+#secundario{
+	width: 270px;
+	float: left;
+	background: green;
+
+}
+
+#lateral{
+	width: 180px;
+	float: left;
+	background: yellow;
+
+}
+
